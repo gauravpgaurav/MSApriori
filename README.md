@@ -1,4 +1,4 @@
-# CS 583 Project : MSApriori Algorithm
+# MSApriori Algorithm
 
 One Paragraph of project description goes here
 
