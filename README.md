@@ -1,6 +1,6 @@
 # MSApriori Algorithm
 
-One Paragraph of project description goes here
+A java implementation for MS Apriori algorithm.
 
 ## Getting Started
 
@@ -48,5 +48,5 @@ Tailcount = 2
 
 ## Authors
 
-* **Gaurav Pant**
+* **Gaurav Pant** (https://github.com/gauravpgaurav)
 * **Mark Hallenbeck**
